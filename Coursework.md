@@ -97,3 +97,6 @@ I also learned about how pipelining and memory organization works.
 
 The capstone project is a three term course that I am taking this Senior year at OSU.
 In the Capstone project I am working with a team of 5 and Intel DevCloud on the project: Artificial Intelligence in Intel DevCloud.
+
+[Return to home page](https://axyoung.github.io)
+
