@@ -6,6 +6,6 @@ permalink: /resume/
 
 ## Resume
 
-![Image](https://github.com/axyoung/axyoung.github.io/blob/main/2021resume.jpg)
+![Image](/2021resume.jpg)
 
-[Resume Link](https://github.com/axyoung/axyoung.github.io/blob/main/UpdatedFallResume-AlexYoung.pdf)
+[Resume Link](/UpdatedFallResume-AlexYoung.pdf)
