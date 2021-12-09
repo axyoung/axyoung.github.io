@@ -77,3 +77,15 @@ I feel like this project demonstates my knowledge of how files, process, and C w
 In my Social and Ethical Issues in CompSci course I did not do any coding that I can share here. However, I did a lot of reading and research into ethics and how they pertain to Computer Science. I feel like this topic is very important in todays world and felt like it would be fitting to present an essay I wrote for this course as part of my portfolio.
 
 In this [essay](https://github.com/axyoung/Ethics-in-CS/blob/main/Social%20Contract%20Theory_%20AI%20for%20Good%20in%20Education.pdf) I discuss how artificial intelligence can be used for good in the field of education. In addition, I analyze the use of AI in education from the point of view of Social Contract Theory.
+
+## Intel Devcloud with Artificial Intelligence
+
+Intel DevCloud with Artificial Intelligence is my OSU capstone project. I am working on this project with a team of 5 other students, and we will continue working on the project through Winter and Spring term. Here is a quick summary of what our team is working on:
+
+```
+This is an open-ended project where our team has to search for an appropriate application of Artificial Intelligence to further research and develop training and inference models with Intel Devcloud’s built-in tools. The overall idea behind our project is testing the viability of students using cloud tools like the Intel DevCloud for artificial intelligence and machine learning projects.
+Through the course of the first sprint, our group has essentially chosen a deepfake detection challenge (potentially mask-detection) as our starting point for our project. With this challenge, the long-term goal will be to create inference models that can detect whether or not a video is a deepfake using two different algorithms. We will then be able to compare the two algorithms and see which one is more effective.
+```
+
+While I am very excited for this project, we are currently finishing up the design and planning of our work and will not have any complete deliverables until February 2022. With this in mind, I am not currently going to share any of the work I have done, but I will be updating this in the future.
+
