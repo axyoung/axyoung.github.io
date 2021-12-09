@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Alex Young Portfolio
 
-You can use the [editor on GitHub](https://github.com/axyoung/axyoung.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is my portfolio that shares my journey and studies through Computer Science over the years. As I progress in my education or find new opporunities in computer science I will update this portfolio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently I am studying Computer Science - Systems Option at Oregon State University. I am a well-rounded student who has taken courses in many different fields of computer science. I do not have any CS related intership or work experience. However, I am exploring career posibilities in software engineering, AI, and data analysis. In addition to this, I am applying for a Masters degree in Computer Science at Oregon State University, University of Wisconsin-Madison, UC Santa Barbara, UC Davis, UC San Diego, UCLA, and UC Irvine.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/axyoung/axyoung.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In these github pages you can find more information [about me](https://axyoung.github.io/about/), as well as [projects](https://axyoung.github.io/projects/) and [coursework](https://axyoung.github.io/coursework/) I have completed at OSU. 
