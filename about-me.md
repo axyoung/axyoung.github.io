@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "About Me"
 permalink: /about/
 ---
@@ -13,7 +13,8 @@ Outside of studying I spend most of my free time reading webnovels and playing g
 
 ## Contact Information
 
-Feel free to contact me with any questions at any of the following email addresses (preferably gmail). In addition feel free to contact me regarding accessing project code that is privated.
+Feel free to contact me with any questions at any of the following email addresses (preferably the school email).
+In addition feel free to contact me regarding accessing project code that is privated.
 
 - School Email: younga6@oregonstate.edu
 - Email: alex.shan.young@gmail.com
