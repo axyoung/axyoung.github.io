@@ -66,5 +66,14 @@ Overall, this project shows my understanding of network protocols and how I can 
 The smallsh project was the most difficult and longest project I had ever completed. In this project I build a basic shell from scratch in C.
 This shell could excecute the in-built commands 'exit', 'cd', and 'status', as well as other commands using 'exec'. In addtion this shell could handle foreground and background process and signals.
 
+The code and comments for this smallsh can be found [here](https://github.com/axyoung/Operating-Systems/tree/main/A3). 
 
+Smallsh was a portfolio roject done for the Operating Systems course. In this course I also completed other interesting projects such as a Multi-threaded Producer Consumer Pipeline.
 
+I feel like this project demonstates my knowledge of how files, process, and C works.
+
+## AI for Good in Education
+
+In my Social and Ethical Issues in CompSci course I did not do any coding that I can share here. However, I did a lot of reading and research into ethics and how they pertain to Computer Science. I feel like this topic is very important in todays world and felt like it would be fitting to present an essay I wrote for this course as part of my portfolio.
+
+In this [essay](https://github.com/axyoung/Ethics-in-CS/blob/main/Social%20Contract%20Theory_%20AI%20for%20Good%20in%20Education.pdf) I discuss how artificial intelligence can be used for good in the field of education. In addition, I analyze the use of AI in education from the point of view of Social Contract Theory.
