@@ -78,6 +78,10 @@ In my Social and Ethical Issues in CompSci course I did not do any coding that I
 
 In this [essay](https://github.com/axyoung/Ethics-in-CS/blob/main/Social%20Contract%20Theory_%20AI%20for%20Good%20in%20Education.pdf) I discuss how artificial intelligence can be used for good in the field of education. In addition, I analyze the use of AI in education from the point of view of Social Contract Theory.
 
+## Modeling Lightning through an L-System
+
+In this project I modeled 3D lightning bolt patterns using an l-system and recursion. I use OpenGL and C as tools to program this visualization of lightning. While my lightning bolts are not entirely realistic, learning about and implementing this project was very fun. Documentation explaining this project is located [here](https://github.com/axyoung/Computer-Graphics/blob/main/CG%20Final%20Project.pdf).
+
 ## Intel Devcloud with Artificial Intelligence
 
 Intel DevCloud with Artificial Intelligence is my OSU capstone project. I am working on this project with a team of 5 other students, and we will continue working on the project through Winter and Spring term. Here is a quick summary of what our team is working on:
