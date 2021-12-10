@@ -26,7 +26,7 @@ I feel like this project exemplifies some of my skills in working with a team an
 
 In this project I used an ATmega128 board to solve math equations related to spaceflight. These are similar equations to those solved by the CPU that drove the Apollo 11 mission.
 
-In order to program the ATmega 128 board I used AVR assembly code to solve these various math equation.
+In order to program the ATmega 128 board I used AVR assembly code to solve these various math equations.
 More details can be found in the hyperlinks to my [report](https://github.com/axyoung/Assembly/blob/main/Final/Final/ece375-final.pdf) and my [code](https://github.com/axyoung/Assembly/blob/main/Final/Final/ece375_final.asm).
 
 This project was a good way for me to show what I learned about assembly language.
