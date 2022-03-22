@@ -30,7 +30,14 @@ I have taken a large variety of computer science related courses throughout my f
  - CS 444 - OPERATING SYSTEMS II
  - CS 450 - INTRO TO COMPUTER GRAPHICS
  - CS 461 - SENIOR SOFTWARE ENGR PROJECT
+ - CS 462 - SENIOR SOFTWARE ENGR PROJECT II
+ - CS 463 - SENIOR SOFTWARE ENGR PROJECT III
  - CS 472 - COMPUTER ARCHITECTURE
+ - CS 499 - ADVANCED WEB DEVELOPMENT
+ - CS 492 - MOBILE DEVELOPMENT
+ - CS 493 - CLOUD APPLICATION DEVELOPMENT
+ - CS 480 - TRANSLATORS
+ - cs 475 - PARALLEL PROGRAMMING
 
 ## Web Development
 
@@ -93,6 +100,14 @@ This course taught me how to critically evaluate issues involving science and te
 I took Computer Architecture in Fall 2021.
 In this course I learned about the design philosphies of involved in computer architectures involving processors, memory, I/O and more.
 I also learned about how pipelining and memory organization works.
+
+## Advanced Web Development
+I took Advanced Web Development in Winter 2022.
+In this course I learned about modern web development concepts and techniques. This included using tools like react app and nextjs for constructing user interfaces and for server-side processing. Throughout this course I worked through multiple projects where I developed simple web applications.
+
+## Mobile Development
+I took Mobile Development in Winter 2022.
+In this course I was introduced to techniques and concepts related to developing mobile applications. Thoguhtout this course I worked on multiple projects through Android Studios where I developed simple mobile applications.
 
 ## Capstone Project
 
