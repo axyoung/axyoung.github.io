@@ -91,9 +91,13 @@ Through the course of the first sprint, our group has essentially chosen a deepf
 
 While I am very excited for this project, we are currently finishing up the design and planning of our work and will not have any complete deliverables until February 2022. With this in mind, I am not currently going to share any of the work I have done, but I will be updating this in the future.
 
-## Web-Development Final - Muvi
+## Advanced-Web-Development Final - Muvi
 
-In this group project I worked on developming a web-app that uses the TMDB api to display lists of movies and their details. You can also log into tmdb from the app in order to set favorite movies and a watchlist. [https://github.com/osu-cs499-w22/muvi](https://github.com/osu-cs499-w22/muvi)
+In this group project I worked on developing a web-app that uses the TMDB api to display lists of movies and their details. You can also log into tmdb from the app in order to set favorite movies and a watchlist. [https://github.com/osu-cs499-w22/muvi](https://github.com/osu-cs499-w22/muvi)
+
+## Mobile-Development Final - Game Collection
+
+In this group project I worked on developing a mobile-app that uses the RAWG api to display lists of games and their details. You can also use the app's database to set favorite games. [https://github.com/osu-cs492-w22/game-collection](https://github.com/osu-cs492-w22/game-collection)
 
 
 [Return to home page](https://axyoung.github.io)
