@@ -109,10 +109,23 @@ In this course I learned about modern web development concepts and techniques. T
 I took Mobile Development in Winter 2022.
 In this course I was introduced to techniques and concepts related to developing mobile applications. Thoguhtout this course I worked on multiple projects through Android Studios where I developed simple mobile applications.
 
+## Translators
+I took Translators in Spring 2022.
+Throughout this course I was introduced to the workings of compilers. This included attribute grammars, syntax-directed translation, lex, yacc, LR(1) parsers, symbol tables, semantic analysis and peep-hole optimization.
+
+## Cloud Development
+I took Cloud Dev in Spring 2022.
+In this course I was introduced to concepts and techniques for developing and deploying RESTful cloud APIs. I also learned how to use docker and docker-compose.
+
+## Parallel Programming
+I took Parallel Programming in Spring 2022.
+In this course we covered a wide variety of concepts, including: Moore's Law and Multicore, Multicore programming using OpenMP, Speedups and Amdahl's Law, Hyperthreading, Caching issues and False Sharing, Data Decomposition, Functional Decomposition, Single Instruction Multiple Data (SIMD), GPU Computing, including CUDA and OpenCL, OpenCL / OpenGL Interoperability, and finally Message Passing Interface (MPI).
+
 ## Capstone Project
 
-The capstone project is a three term course that I am taking this Senior year at OSU.
-In the Capstone project I am working with a team of 5 and Intel DevCloud on the project: Artificial Intelligence in Intel DevCloud.
+The capstone project is a three term course that I took over my Senior year at OSU.
+In the Capstone project I worked with a team of 5 and Intel DevCloud on the project: Artificial Intelligence in Intel DevCloud.
+In this project we focused on implementing a Deepfake Detection solution into Intel DevCloud and creating a front-end web-app that interacted with the AI in Intel DevCloud. Our final project repo can be found here: [https://github.com/OSU-AI-with-Intel-DevCloud](https://github.com/OSU-AI-with-Intel-DevCloud)
 
 [Return to home page](https://axyoung.github.io)
 
