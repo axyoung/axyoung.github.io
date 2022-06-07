@@ -84,12 +84,13 @@ In this project I modeled 3D lightning bolt patterns using an l-system and recur
 
 ## Intel Devcloud with Artificial Intelligence
 
-Intel DevCloud with Artificial Intelligence is my OSU capstone project. I am working on this project with a team of 5 other students, and we will continue working on the project through Winter and Spring term. Here is a quick summary of what our team is working on:
+Intel DevCloud with Artificial Intelligence is my OSU capstone project. I worked on this project with a team of 5 other students over the course of three terms. Here is a quick summary of what our team worked on:
 
-This is an open-ended project where our team has to search for an appropriate application of Artificial Intelligence to further research and develop training and inference models with Intel Devcloud’s built-in tools. The overall idea behind our project is testing the viability of students using cloud tools like the Intel DevCloud for artificial intelligence and machine learning projects.
-Through the course of the first sprint, our group has essentially chosen a deepfake detection challenge (potentially mask-detection) as our starting point for our project. With this challenge, the long-term goal will be to create inference models that can detect whether or not a video is a deepfake using two different algorithms. We will then be able to compare the two algorithms and see which one is more effective.
+This is an open-ended project where our team has to search for an appropriate application of Artificial Intelligence to further research and develop training and inference models with Intel Devcloud’s built-in tools. The overall idea behind our project is testing the viability of students using cloud tools like the Intel DevCloud for artificial intelligence and machine learning projects. Our group has chosen a deepfake detection challenge as our starting point for our project. With this challenge, the long-term goal will be to create inference models that can detect whether or not a video is a deepfake using two different algorithms. We will then be able to compare the two algorithms and see which one is more effective.
 
-While I am very excited for this project, we are currently finishing up the design and planning of our work and will not have any complete deliverables until February 2022. With this in mind, I am not currently going to share any of the work I have done, but I will be updating this in the future.
+In addition to working with Artificial Intelligence in Intel DevCloud, a large portion of the project was to create an interactive web-app that could connect to and fetch Deepfake Detection Results from Intel DevCloud in real time. This web-app was presented and shared during OSU's engineering expo.
+
+Our groups final git repo includes instructions for testing out our project yourself, as well as ideas for future improvement: [https://github.com/OSU-AI-with-Intel-DevCloud](https://github.com/OSU-AI-with-Intel-DevCloud).
 
 ## Advanced-Web-Development Final - Muvi
 
