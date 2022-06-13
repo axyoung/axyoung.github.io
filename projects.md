@@ -92,13 +92,17 @@ In addition to working with Artificial Intelligence in Intel DevCloud, a large p
 
 Our groups final git repo includes instructions for testing out our project yourself, as well as ideas for future improvement: [https://github.com/OSU-AI-with-Intel-DevCloud](https://github.com/OSU-AI-with-Intel-DevCloud).
 
-## Advanced-Web-Development Final - Muvi
+## Advanced-Web Development Final - Muvi
 
 In this group project I worked on developing a web-app that uses the TMDB api to display lists of movies and their details. You can also log into tmdb from the app in order to set favorite movies and a watchlist. [https://github.com/osu-cs499-w22/muvi](https://github.com/osu-cs499-w22/muvi)
 
-## Mobile-Development Final - Game Collection
+## Mobile Development Final - Game Collection
 
 In this group project I worked on developing a mobile-app that uses the RAWG api to display lists of games and their details. You can also use the app's database to set favorite games. [https://github.com/osu-cs492-w22/game-collection](https://github.com/osu-cs492-w22/game-collection)
+
+## Cloud-Application Development Final - Tarpaulin API
+
+In this group project I worked on developing an api for the Tarpaulin application. Tarpaulin is a lightweight course management tool. This RESTful API allows users to store and see information about different courses and assignments. [https://github.com/osu-cs493-sp22/final-project-team-12](https://github.com/osu-cs493-sp22/final-project-team-12)
 
 
 [Return to home page](https://axyoung.github.io)
