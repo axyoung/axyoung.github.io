@@ -9,17 +9,17 @@ The links attached to the following headers will lead to more in-depth detail on
 
 ### [my resume](https://axyoung.github.io/resume/)
 
-> I graduated from Oregon State University with a Bachelor's of Science in June 2022 with a 3.86 GPA.
+> I graduated from Oregon State University with a Bachelor's of Science in June 2022 with a 3.87 GPA.
 > 
 > Currently in UCDavis I am estimated to recieve my MS degree in June 2024 and I have a 3.88 GPA.
 > 
-> I have experience teaching computer science courses and working through various projects.
+> I have experience teaching computer science courses including ones related to C++ and Machine Learning as well as working through various projects as a graduate student researcher.
 > 
 > I am familiar with languages such as Python, C++, C, HTML/CSS and JS
 
 ### [about me](https://axyoung.github.io/about/)
 
-> I grew up in the Oregon area. I am half Chinese, half American. I am passionate about reading and enjoy playing games and swimming.
+> I grew up in Oregon. I am half Chinese, half White. I am passionate about reading and enjoy swimming.
 
 ### [projects](https://axyoung.github.io/projects/)
 
@@ -27,7 +27,7 @@ The links attached to the following headers will lead to more in-depth detail on
 >
 > These include projects related to algorithms, assembly code, Hack the Box, Networking, AI and more.
 >
-> Some highlights include my final project where I looked at deepfakes on the Intel DevCloud, sentiment analysis on Tweets, and Tokenizing audio with TokenLearner.
+> Some highlights include my research into social biases in LLMs as a graduate studnet and ny final undergraduate project where I looked at deepfakes on the Intel DevCloud, sentiment analysis on Tweets, and Tokenizing audio with TokenLearner.
 
 ### [OSU coursework](https://axyoung.github.io/coursework/)
 
