@@ -11,7 +11,7 @@ The links attached to the following headers will lead to more in-depth detail on
 
 > I graduated from Oregon State University with a Bachelor's of Science in June 2022 with a 3.87 GPA.
 > 
-> Currently in UCDavis I am estimated to recieve my MS degree in June 2024 and I have a 3.88 GPA.
+> Currently in UCDavis I am estimated to recieve my MS degree in June 2024 and I have a 3.91 GPA.
 > 
 > I have experience teaching computer science courses including ones related to C++ and Machine Learning as well as working through various projects as a graduate student researcher.
 > 
