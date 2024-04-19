@@ -108,4 +108,9 @@ In this group project I worked on developing an api for the Tarpaulin applicatio
 
 In this group project for Advanced Deep Learning my group dived into TokenLearner and transformer models. Here is our [Paper](https://github.com/axyoung/axyoung.github.io/blob/main/files/Tokenizing_audio_paper.pdf).
 
+## Social Biases in Large Language Models
+
+My research under Setareh Rafatirad has had me conduct large scale research on social biases or stereotypes in popular large language models such as ChatGPT and BERT. In our investigation we used stereotype benchmark datasets and applied them to LLMs. We analyzed the outputs and what they could mean, then looked to find ways to improve and fine-tune the machine learning models to see what sort of effective ways there are to better detect and avoid bias. Part of the novelty of our approach includes our direction using MCQA - multiple choice questioning - prompt techniques and our investigation into how this training can be more generalized.
+
+
 [Return to home page](https://axyoung.github.io)
