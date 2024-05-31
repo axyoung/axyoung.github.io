@@ -38,7 +38,7 @@ I quite enjoyed learning about spectre and meltdown as well as the implications 
 
 I found this course to be quite interesting and a change of pace from other computer science courses I had recently taken.
 In this graduate level programming langauges course we looked into how to verify correctnes of programs and static program analysis.
-To go further, I learned that extracting properties of programs is approximating their semantics.
+To elaborate, I learned that extracting properties of programs is approximating their semantics.
 
 ## ANALYSIS OF ALGORITHMS
 
@@ -49,6 +49,10 @@ In this course we went over the design and analysis of algorithms at a graduate 
 This course was a research and project centric course where I learned a lot about the current state of artificial intelligence.
 Students of the course read through many new papers related to deep learning and presented their findings to the class.
 I also got the chance to engage with machine learning through a long project in which my group looked at tokenizing audio for transformer models.
+
+## PROBABILITY MODELS
+
+Basic Probability and Statistics.  Markov models. Sampling, estimation and model building. Regression analysis. Queueing models. Bayesian estimation. Applications to data mining, networks, disk systems, security, software engineering and bioinformatics.
 
 [Return to home page](https://axyoung.github.io)
 
