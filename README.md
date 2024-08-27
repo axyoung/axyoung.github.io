@@ -1,8 +1,8 @@
 ## Alex Young Portfolio
 
-This is my portfolio that shares my journey through Computer Science over the years. As I progress in my education and encounter new opporunities in computer science I will update this portfolio.
+This is my portfolio that shares my journey through Computer Science over the years.
 
-Currently I am a 2nd Year Masters student studying Computer Science at UC Davis.
+I am a recent Masters Graduate searching for opportunities in software engineering and AI fields.
 My previous work can be mostly found on my github - [github.com/axyoung](https://github.com/axyoung).
 
 The links attached to the following headers will lead to more in-depth detail on my experiences.
@@ -11,7 +11,7 @@ The links attached to the following headers will lead to more in-depth detail on
 
 > I graduated from Oregon State University with a Bachelor's of Science in June 2022 with a 3.87 GPA.
 > 
-> Currently in UCDavis I am estimated to recieve my MS degree in June 2024 and I have a 3.91 GPA.
+> I graduated from UCDavis with a Master;s of Science in June 2024 with a 3.91 GPA.
 > 
 > I have experience teaching computer science courses including ones related to C++ and Machine Learning as well as working through various projects as a graduate student researcher.
 > 
