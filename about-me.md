@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About Me
 
-I am Alex Young. My pronouns are he/him/his. I am born American and am available to work in USA. Currently searching for job positions in software engineering/development and AI fields.
+I am Alex Young. My pronouns are he/him/his. I am born American and am available to work in USA. Currently searching for job positions in software engineering/development and AI fields in the Pacific NW region.
 
 ## Contact Information
 
