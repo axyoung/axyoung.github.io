@@ -5,6 +5,8 @@ This is my portfolio that shares my journey through Computer Science over the ye
 I am a recent Masters Graduate searching for opportunities in software engineering and AI fields.
 My previous work can be mostly found on my github - [github.com/axyoung](https://github.com/axyoung).
 
+I can be contacted at the following addresses: [alex.shan.young@gmail.com] and [axyoung@ucdavis.edu]
+
 The links attached to the following headers will lead to more in-depth detail on my experiences.
 
 ### [my resume](https://axyoung.github.io/resume/)
