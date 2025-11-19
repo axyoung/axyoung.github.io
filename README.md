@@ -38,3 +38,7 @@ The links attached to the following headers will lead to more in-depth detail on
 ### [UCDavis coursework](https://axyoung.github.io/m_coursework/)
 
 > My coursework I completed at UCDavis during my graduate studies are shown in the above link.
+
+### [Research](https://arxiv.org/abs/2511.14153)
+
+> A paper reporting on some of the results my lab worked on.
