@@ -112,7 +112,7 @@ In this group project for Advanced Deep Learning my group dived into TokenLearne
 
 My research under Setareh Rafatirad has had me conduct large scale research on social biases or stereotypes in popular large language models such as ChatGPT and BERT. In our investigation we used stereotype benchmark datasets and applied them to LLMs. We analyzed the outputs and what they could mean, then looked to find ways to improve and fine-tune the machine learning models to see what sort of effective ways there are to better detect and avoid bias. Part of the novelty of our approach includes our direction using MCQA - multiple choice questioning - prompt techniques and our investigation into how this training can be more generalized.
 
-While we are working on publishing a paper related to our work, this is still underway. Linked [here](https://github.com/axyoung/axyoung.github.io/blob/main/files/GPT_Stereotyping_Project_Report.pdf) is a copy of a report I did covering my role in the project.
+While we are working on publishing a paper related to our work, this is still underway. Linked [here](https://github.com/axyoung/axyoung.github.io/blob/main/files/GPT_Stereotyping_Project_Report.pdf) is a copy of a report I did covering my role in the project. THe arXiv for this paper is here: [https://arxiv.org/abs/2511.14153].
 
 
 [Return to home page](https://axyoung.github.io)
