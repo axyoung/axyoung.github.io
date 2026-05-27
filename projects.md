@@ -80,7 +80,11 @@ In this [essay](https://github.com/axyoung/Ethics-in-CS/blob/main/Social%20Contr
 
 ## Modeling Lightning through an L-System
 
-In this project I modeled 3D lightning bolt patterns using an l-system and recursion. I use OpenGL and C as tools to program this visualization of lightning. While my lightning bolts are not entirely realistic, learning about and implementing this project was very fun. Documentation explaining this project is located [here](https://github.com/axyoung/Computer-Graphics/blob/main/CG%20Final%20Project.pdf).
+In this project I modeled 3D lightning bolt patterns using an l-system and recursion. I use OpenGL and C as tools to program this visualization of lightning. While my lightning bolts are not entirely realistic, learning about and implementing this project was very fun. 
+
+It was especially interesting learning about how these systems rely on fractals to mimic the naturally occuring patterns that lightning bolts traverse.
+
+Documentation explaining this project is located [here](https://github.com/axyoung/Computer-Graphics/blob/main/CG%20Final%20Project.pdf).
 
 ## Intel Devcloud with Artificial Intelligence
 
@@ -96,13 +100,19 @@ Our groups final git repo includes instructions for testing out our project your
 
 In this group project I worked on developing a web-app that uses the TMDB api to display lists of movies and their details. You can also log into tmdb from the app in order to set favorite movies and a watchlist. [https://github.com/osu-cs499-w22/muvi](https://github.com/osu-cs499-w22/muvi)
 
+This project was uniquely important to me because it was recognized by our professor as exceptional work and kept up on his website in a hall of fame as an example for future students to peruse.
+
 ## Mobile Development Final - Game Collection
 
 In this group project I worked on developing a mobile-app that uses the RAWG api to display lists of games and their details. You can also use the app's database to set favorite games. [https://github.com/osu-cs492-w22/game-collection](https://github.com/osu-cs492-w22/game-collection)
 
+I quite enjoyed this project as the sum of my mobile development work and am quite proud of our group producing a fully functional app with a variety of useful features.
+
 ## Cloud-Application Development Final - Tarpaulin API
 
 In this group project I worked on developing an api for the Tarpaulin application. Tarpaulin is a lightweight course management tool. This RESTful API allows users to store and see information about different courses and assignments. [https://github.com/osu-cs493-sp22/final-project-team-12](https://github.com/osu-cs493-sp22/final-project-team-12)
+
+This project gave me a lot of practical experience when it comes to API design and the intricacies behind it. I was able to gain an appreciation for the difficulty and process of defining and designing quality APIs for scalable work, whcih should prove invaluable for the future. 
 
 ## Tokenizing audio: Pipelining TokenLearner Models
 
@@ -110,9 +120,11 @@ In this group project for Advanced Deep Learning my group dived into TokenLearne
 
 ## Social Biases in Large Language Models
 
-My research under Setareh Rafatirad has had me conduct large scale research on social biases or stereotypes in popular large language models such as ChatGPT and BERT. In our investigation we used stereotype benchmark datasets and applied them to LLMs. We analyzed the outputs and what they could mean, then looked to find ways to improve and fine-tune the machine learning models to see what sort of effective ways there are to better detect and avoid bias. Part of the novelty of our approach includes our direction using MCQA - multiple choice questioning - prompt techniques and our investigation into how this training can be more generalized.
+My research under Setareh Rafatirad has had me conduct large scale research on social biases or stereotypes in popular large language models such as ChatGPT and BERT. In our investigation we used stereotype benchmark datasets and applied them to LLMs. We analyzed the outputs and what they could mean, then looked to find ways to improve and fine-tune the machine learning models to see what sort of effective ways there are to better detect and avoid bias. Part of the novelty of our approach includes our direction using MCQA - multiple choice questioning - prompt techniques and our investigation into how this training can be more generalized. This research covers a wide variety of subjet matters but focuses on social biases, data science and analysis, and machine learning. While much of the langauge models that were analyzed where queried through APIs, we also built and used our own models in conjunction with this research.
 
-While we are working on publishing a paper related to our work, this is still underway. Linked [here](https://github.com/axyoung/axyoung.github.io/blob/main/files/GPT_Stereotyping_Project_Report.pdf) is a copy of a report I did covering my role in the project. The arXiv for this paper is here: [https://arxiv.org/abs/2511.14153].
+Linked [here](https://github.com/axyoung/axyoung.github.io/blob/main/files/GPT_Stereotyping_Project_Report.pdf) is a copy of a report I did covering my role in the project. The arXiv for this paper is here: [https://arxiv.org/abs/2511.14153].
+
+This research means a lot to me not only because of the vast amount of time and effort I put into it, but also because it helps dive into an aspect of these learning models that seems increasingly vital as they progress further and further along. These social implication that we investigate are just a branch of the vast ethical quandaries that envelope machine learning, and they are all extremely important to understand when working on or using these models. As someone who does both, I found this project to be important for my own journey with machine learning and yet also feels it has lead me to more questions than answers.
 
 
 [Return to home page](https://axyoung.github.io)
