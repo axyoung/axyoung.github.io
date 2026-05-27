@@ -1,4 +1,4 @@
----
+<img width="1608" height="1276" alt="image" src="https://github.com/user-attachments/assets/638b147d-a264-456a-ad42-33ec1a3ca37d" />---
 layout: default
 title: "Projects"
 permalink: /projects/
@@ -100,7 +100,15 @@ This is an open-ended project where our team has to search for an appropriate ap
 
 In addition to working with Artificial Intelligence in Intel DevCloud, a large portion of the project was to create an interactive web-app that could connect to and fetch Deepfake Detection Results from Intel DevCloud in real time. This web-app was presented and shared during OSU's engineering expo.
 
+<p align="center">
+  <img src="files/capstone_example.png" width="25%">
+</p>
+
 Our groups final git repo includes instructions for testing out our project yourself, as well as ideas for future improvement: [https://github.com/OSU-AI-with-Intel-DevCloud](https://github.com/OSU-AI-with-Intel-DevCloud).
+
+<p align="center">
+  <img src="files/capstone_plan.png" width="40%">
+</p>
 
 ## Advanced-Web Development Final - Muvi
 
