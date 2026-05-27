@@ -5,9 +5,9 @@ I can be contacted at alex.shan.young@gmail.com.
 
 The links attached to the following headers will lead to more in-depth detail on my experiences.
 
-### [Research](https://arxiv.org/abs/2511.14153)
+### [research](https://arxiv.org/abs/2511.14153)
 
-> A paper reporting on some of the results my lab worked on.
+> The paper reporting the results I worked on in my lab.
 >
 > My research focused on social biases in LLMs. I queried a multitude of langauge models on different types and aspects of social biases.
 >
@@ -23,20 +23,15 @@ The links attached to the following headers will lead to more in-depth detail on
 >
 > This research project was especially challenging due to the scope and cross-disciplinary nature of the subject. Furthermore, the lack of previous research material made our processes even more tedious. We overcame these challenges by incorporating helpful social biases datasets as well as careful discussion and guidance regarding the scope of our work.
 
-### [my resume](https://axyoung.github.io/resume/)
+### [resume](https://axyoung.github.io/resume/)
 
 > I graduated from Oregon State University with a Bachelor's of Science in June 2022 with a 3.87 GPA.
 > 
 > I graduated from UCDavis with a Master's of Science in June 2024 with a 3.91 GPA.
 > 
-> I have experience teaching computer science courses including ones related to C++ and Machine Learning as well as working through various projects as a graduate student researcher.
+> I have experience teaching computer science courses related to C++ and Machine Learning as well as working through various projects as a graduate student researcher.
 > 
 > I am familiar with languages such as Python, C++, C, HTML/CSS and JS
-
-### [about me](https://axyoung.github.io/about/)
-
-> I grew up in Oregon. I am half Chinese, half White. I am passionate about reading and enjoy swimming.
-
 
 ### [OSU coursework](https://axyoung.github.io/coursework/)
 
@@ -46,3 +41,6 @@ The links attached to the following headers will lead to more in-depth detail on
 
 > My coursework I completed at UCDavis during my graduate studies are shown in the above link.
 
+### [about me](https://axyoung.github.io/about/)
+
+> I grew up in Oregon. I am half Chinese, half White. I am passionate about reading and enjoy swimming.
