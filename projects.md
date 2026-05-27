@@ -36,6 +36,10 @@ In my Defense Against the Dark Arts course that I took over the summer of 2021, 
 To keep this section shorter, I will share my work that I did for my final in DADA. In one part I researched and prepared a presentation on the Spectre vulnerability, which is named as such due to the way if lingers in modern microprocessors.
 This presentation can be found [here](https://oregonstate.app.box.com/s/oy9dd5ovb6hrbgzewjpyu8ps5a0xm37z).
 
+<p align="center">
+  <img src="files/spectre.png" width="40%">
+</p>
+
 Other than this, I also participated in three Hack The Box challenges. I found these challenges quite fun and interesting so I thought I should share the problem solving I did for them [here](https://github.com/axyoung/Defense-Against-Dark-Arts/blob/main/Final%20Project.pdf) as well.
 
 ## Intro to AI
