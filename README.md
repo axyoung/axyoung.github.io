@@ -16,6 +16,8 @@ The links attached to the following headers will lead to more in-depth detail on
 > Below is a flow diagram of our processes.
 > 
 ![Logo](files/model_ecml_2.png)
+>
+> This research project was especially challenging due to the scope and cross-disciplinary nature of the subject. Furthermore, the lack of previous research material made our processes even more tedious. We overcame these challenges by incorporating helpful social biases datasets as well as careful discussion and guidance regarding the scope of our work.
 
 ### [projects](https://axyoung.github.io/projects/)
 
@@ -23,9 +25,8 @@ The links attached to the following headers will lead to more in-depth detail on
 >
 > These include projects related to algorithms, assembly code, Hack the Box, Networking, AI and more.
 >
-> Some highlights include my research into social biases in LLMs as a graduate studnet and ny final undergraduate project where I looked at deepfakes on the Intel DevCloud, sentiment analysis on Tweets, and Tokenizing audio with TokenLearner.
->
-> This research project was especially challenging due to the scope and cross-disciplinary nature of the subject. Furthermore, the lack of previous research material made our processes even more tedious. We overcame these challenges by incorporating helpful social biases datasets as well as careful discussion and guidance regarding the scope of our work.
+> Some highlights include my research into social biases in LLMs as a graduate studnet and ny final undergraduate project where I looked at deepfakes on the Intel DevCloud, sentiment analysis on Tweets, and the muvi web-app that I helped develop.
+
 
 ### [resume](https://axyoung.github.io/resume/)
 
