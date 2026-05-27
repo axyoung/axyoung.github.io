@@ -1,6 +1,6 @@
 ## Alex Young Portfolio
 
-I am a recent Masters Graduate searching for opportunities in software engineering and AI fields.
+I am a recent Masters Graduate searching for opportunities in software engineering and machine learning fields.
 I can be contacted at alex.shan.young@gmail.com.
 
 The links attached to the following headers will lead to more in-depth detail on my experiences.
