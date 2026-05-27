@@ -82,6 +82,8 @@ In this project I modeled 3D lightning bolt patterns using an l-system and recur
 
 It was especially interesting learning about how these systems rely on fractals to mimic the naturally occuring patterns that lightning bolts traverse.
 
+![l-system](files/lsystem.png)
+
 Documentation explaining this project is located [here](https://github.com/axyoung/Computer-Graphics/blob/main/CG%20Final%20Project.pdf).
 
 ## Intel Devcloud with Artificial Intelligence
@@ -100,11 +102,15 @@ In this group project I worked on developing a web-app that uses the TMDB api to
 
 This project was uniquely important to me because it was recognized by our professor as exceptional work and kept up on his website in a hall of fame as an example for future students to peruse.
 
+![muvi](files/muvi.png)
+
 ## Mobile Development Final - Game Collection
 
 In this group project I worked on developing a mobile-app that uses the RAWG api to display lists of games and their details. You can also use the app's database to set favorite games. [https://github.com/osu-cs492-w22/game-collection](https://github.com/osu-cs492-w22/game-collection)
 
 I quite enjoyed this project as the sum of my mobile development work and am quite proud of our group producing a fully functional app with a variety of useful features.
+
+![game collection](/files/game-collection.png)
 
 ## Cloud-Application Development Final - Tarpaulin API
 
