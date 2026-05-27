@@ -101,13 +101,13 @@ This is an open-ended project where our team has to search for an appropriate ap
 In addition to working with Artificial Intelligence in Intel DevCloud, a large portion of the project was to create an interactive web-app that could connect to and fetch Deepfake Detection Results from Intel DevCloud in real time. This web-app was presented and shared during OSU's engineering expo.
 
 <p align="center">
-  <img src="/files/capstone_example.png" width="25%">
+  <img src="/files/capstone_example.png" width="40%">
 </p>
 
 Our groups final git repo includes instructions for testing out our project yourself, as well as ideas for future improvement: [https://github.com/OSU-AI-with-Intel-DevCloud](https://github.com/OSU-AI-with-Intel-DevCloud).
 
 <p align="center">
-  <img src="/files/capstone_plan.png" width="40%">
+  <img src="/files/capstone_plan.png" width="70%">
 </p>
 
 ## Advanced-Web Development Final - Muvi
@@ -117,7 +117,7 @@ In this group project I worked on developing a web-app that uses the TMDB api to
 This project was uniquely important to me because it was recognized by our professor as exceptional work and kept up on his website in a hall of fame as an example for future students to peruse.
 
 <p align="center">
-  <img src="/files/muvi.png" width="50%">
+  <img src="/files/muvi.png" width="65%">
 </p>
 
 ## Mobile Development Final - Game Collection
@@ -127,7 +127,7 @@ In this group project I worked on developing a mobile-app that uses the RAWG api
 I quite enjoyed this project as the sum of my mobile development work and am quite proud of our group producing a fully functional app with a variety of useful features.
 
 <p align="center">
-  <img src="/files/game-collection.png" width="50%">
+  <img src="/files/game-collection.png" width="65%">
 </p>
 
 ## Cloud-Application Development Final - Tarpaulin API
