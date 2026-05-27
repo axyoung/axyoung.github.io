@@ -6,9 +6,7 @@ permalink: /projects/
 
 ## Portfolio Projects
 
-Over the course of my four years at Oregon State University I completed many large projects in the processes of getting my Computer Science degree.
-
-I will share a few of these projects here. Much of the code for the work I have done on these projects is privated on my github. Feel free to contact me if access is needed.
+I will share a few of the projects that I have completed and feel were impactful on my computer science journey here. Much of the code for the work I have done on these projects is privated on my github. Feel free to contact me if access is needed.
 
 
 ## Computing Second and Third Minimum Spanning Trees
