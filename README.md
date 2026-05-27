@@ -27,6 +27,9 @@ The links attached to the following headers will lead to more in-depth detail on
 >
 > Some highlights include my research into social biases in LLMs as a graduate studnet and ny final undergraduate project where I looked at deepfakes on the Intel DevCloud, sentiment analysis on Tweets, and the muvi web-app that I helped develop.
 
+<p align="center">
+  <img src="files/game-collection.png" width="60%">
+</p>
 
 ### [resume](https://axyoung.github.io/resume/)
 
