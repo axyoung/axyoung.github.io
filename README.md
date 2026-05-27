@@ -12,6 +12,7 @@ The links attached to the following headers will lead to more in-depth detail on
 > My research focused on social biases in LLMs. I queried a multitude of langauge models on different types and aspects of social biases.
 >
 > The motivation for researching this topic came from tests where we found clear racial and gender biases in LLMs. Examples include understanding what the model will implicitly or explicitly state as a gender role, and then also seeing what happens when these questions are asked in different langauges. While the results of these preliminary tests may not suprise you, they are rather indicative of the issues that lie in how these models work.
+![Logo](files/model_ecml_2.png)
 
 ### [projects](https://axyoung.github.io/projects/)
 
