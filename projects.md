@@ -82,7 +82,7 @@ In this project I modeled 3D lightning bolt patterns using an l-system and recur
 
 It was especially interesting learning about how these systems rely on fractals to mimic the naturally occuring patterns that lightning bolts traverse.
 
-![l-system](files/lsystem.png)
+<img src="files/lsystem.png" width="50%">
 
 Documentation explaining this project is located [here](https://github.com/axyoung/Computer-Graphics/blob/main/CG%20Final%20Project.pdf).
 
