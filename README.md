@@ -1,10 +1,6 @@
 ## Alex Young Portfolio
 
-This is my portfolio that shares my journey through Computer Science over the years.
-
 I am a recent Masters Graduate searching for opportunities in software engineering and AI fields.
-My previous work can be mostly found on my github - [github.com/axyoung](https://github.com/axyoung).
-
 I can be contacted at the following addresses: alex.shan.young@gmail.com and axyoung@ucdavis.edu.
 
 The links attached to the following headers will lead to more in-depth detail on my experiences.
@@ -13,7 +9,7 @@ The links attached to the following headers will lead to more in-depth detail on
 
 > I graduated from Oregon State University with a Bachelor's of Science in June 2022 with a 3.87 GPA.
 > 
-> I graduated from UCDavis with a Master;s of Science in June 2024 with a 3.91 GPA.
+> I graduated from UCDavis with a Master's of Science in June 2024 with a 3.91 GPA.
 > 
 > I have experience teaching computer science courses including ones related to C++ and Machine Learning as well as working through various projects as a graduate student researcher.
 > 
