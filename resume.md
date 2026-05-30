@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Resume
 
-![Image](/resume_2024.png)
+<iframe src="./files/resume-ml.pdf" width="100%" height="600px"></iframe>
 
 [Resume Link](/resume_software.pdf)
 
