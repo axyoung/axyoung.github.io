@@ -6,8 +6,8 @@ permalink: /resume/
 
 ## Resume
 
-<iframe src="./files/resume-ml.pdf" width="100%" height="600px"></iframe>
+![Image](/files/resume_ml.png)
 
-[Resume Link](/resume_software.pdf)
+[Resume Link](/files/resume_ml.pdf)
 
 [Return to home page](https://axyoung.github.io)
