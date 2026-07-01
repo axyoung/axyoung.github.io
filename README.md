@@ -32,6 +32,7 @@ The links attached to the following headers will lead to more in-depth detail on
 </p>
 
 > Recently I have developed a growing interest in conducting some personal projects. I have started working/brainstorming on a few, including a modding project for StS2, a damage calculator for another game, and some ideas related to LLM creativity.
+> 
 > Additionally I have begun looking into open-source programming volunteering options for non-profit or other organizations.
 
 ### [resume](https://axyoung.github.io/resume/)
