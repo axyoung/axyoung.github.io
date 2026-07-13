@@ -148,5 +148,11 @@ Linked [here](https://github.com/axyoung/axyoung.github.io/blob/main/files/GPT_S
 
 This research means a lot to me not only because of the vast amount of time and effort I put into it, but also because it helps dive into an aspect of these learning models that seems increasingly vital as they progress further and further along. These social implication that we investigate are just a branch of the vast ethical quandaries that envelope machine learning, and they are all extremely important to understand when working on or using these models. As someone who does both, I found this project to be important for my own journey with machine learning and yet also feels it has lead me to more questions than answers.
 
+## Family Tree
+
+Over my break I spent some time creating a [family tree](https://github.com/axyoung/family-tree/tree/main) website for my family. While I will not be sharing the website itself to avoid doxing, the basic tree visalualizaiton is built from the [family-chart](https://donatso.github.io/family-chart-doc/examples/v2/1-basic-tree) library and looks quite pleasing to the eye. The website itself has many functionalities, including authorization, dynamic updates, biological/adopted family, pets, editing, a side panel for stories and descriptions and photos.
+
+For the frontent/dev is handled by [Vite](https://vitejs.dev/), backend/database/auth is handled with [Supabase](https://supabase.com/), and for hosting/deployment I used [Vercel](https://vercel.com/). Working on the side/hobby project taught me some more practical skills necessary for completing and hosting a website like this, which I haven't done before. Overall, this was a fun and fulfilling project to work on.
+
 
 [Return to home page](https://axyoung.github.io)
