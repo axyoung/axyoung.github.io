@@ -32,6 +32,8 @@ The links attached to the following headers will lead to more in-depth detail on
 </p>
 
 > Recently I have developed a growing interest in conducting some personal projects. I have started working/brainstorming on a few, including a modding project for StS2, a damage calculator for another game, and some ideas related to LLM creativity.
+>
+> One completed project that I have worked on is a [family tree](https://github.com/axyoung/family-tree/tree/main) that I built for my family to document and preserve my family's history. This family tree is hosted on a website and built using an interactive visual library that allows for family member's to explore their distant relatives. Sadly I will not be sharing a link to the actual site as it doxes many people.
 > 
 > Additionally I have begun looking into open-source programming volunteering options for non-profit or other organizations.
 
